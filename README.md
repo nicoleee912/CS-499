@@ -1,8 +1,8 @@
-🌟 Welcome to My CS-499 ePortfolio
+# 🌟 Welcome to My CS-499 ePortfolio
 
 Hello! I’m Kristen Hernandez, and this ePortfolio represents the culmination of my work in the Computer Science program at Southern New Hampshire University. It showcases my enhanced artifacts, my professional self-assessment, and my growth across the key areas of software engineering, algorithms and data structures, and databases. Each project highlights a different dimension of my technical skills and reflects the progression of my abilities throughout the program.
 
-💼 Professional Self-Assessment
+# 💼 Professional Self-Assessment
 
 Throughout my Computer Science program at Southern New Hampshire University, I have grown into a more confident, versatile, and capable developer. Completing my coursework and building my ePortfolio allowed me to bring together everything I’ve learned—from software engineering and mobile development to data structures, algorithms, and database design—into one cohesive demonstration of my technical abilities. This journey has reinforced my strengths as a problem-solver and validated the dedication, discipline, and attention to detail that I’ve gained through both my academic work and my professional career in the military contracting field. My experience supporting U.S. Navy submarine communication systems taught me how essential reliability, precision, and accountability are in engineering, and these same values have shaped the way I approach software development.
 
@@ -14,7 +14,8 @@ Security and defensive programming also became a larger focus for me as I progre
 
 Together, the artifacts in my ePortfolio represent the full range of skills I’ve developed: designing and refactoring software, applying algorithms and data structures to real applications, and building secure, maintainable databases. More importantly, they demonstrate how each area supports the others—how strong design reinforces security, how efficient algorithms improve user experience, and how reliable data systems enable scalability. This combination has prepared me to contribute meaningfully to professional software projects and continue growing as a developer. I’m proud of how far I’ve come, and I’m excited to bring this foundation into my future career.
 
-📂 Enhanced Artifacts
+---
+# 📂 Enhanced Artifacts
 
 # 🐶 Software Engineering Enhancement  
 ## IT-145 Rescue Animal Management System (Java)
@@ -40,6 +41,7 @@ The project began as a beginner Java console application and was expanded and re
 ### 🔗 Access Artifact Files
 [View Artifact Folder](https://github.com/nicoleee912/CS-499/tree/main/milestone2_software_design)
 
+---
 
 # 📱 Algorithms & Data Structures Enhancement  
 ## CS-360 Mobile Inventory App (Android / Java)
@@ -65,6 +67,7 @@ For the enhancement, I focused on implementing algorithmic improvements and impr
 ### 🔗 Access Artifact Files
 [View Artifact Folder](https://github.com/nicoleee912/CS-499/tree/main/milestone3_algorithms_ds)
 
+---
 
 # 🗄 Database Enhancement  
 ## DAD-220 SQL E-Commerce Schema
@@ -90,13 +93,21 @@ For the capstone, I introduced advanced database logic to demonstrate practical,
 ### 🔗 Access Artifact Files
 [View Artifact Folder](https://github.com/nicoleee912/CS-499/tree/main/milestone4_databases)
 
+---
 
-✔ Collaborative and professional communication
-✔ Clear, audience-aware technical writing
+# Program Learning Outcomes Demonstrated
+✔ Collaborative and professional communication 
+
+✔ Clear, audience-aware technical writing 
+
 ✔ Algorithmic design and evaluation of computing solutions
+
 ✔ Use of innovative engineering tools and database technologies
+
 ✔ Security-focused coding and defensive development practices
 
-Thank You!
+---
+
+# Thank You!
 
 Thank you for taking the time to explore my portfolio. I hope these artifacts demonstrate my technical growth, my dedication to continuous improvement, and my readiness to contribute as a professional in the computer science field.
