@@ -6,7 +6,7 @@ Welcome to my Computer Science Capstone ePortfolio. This repository showcases th
 
 # 💼 Professional Self-Assessment
 
-*(Paste the full polished version we wrote together here.)*
+
 
 ---
 
