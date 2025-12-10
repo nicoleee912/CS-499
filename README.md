@@ -17,7 +17,8 @@ Together, the artifacts in my ePortfolio represent the full range of skills I’
 📂 Enhanced Artifacts
 1️⃣ Software Engineering Enhancement — IT-145 Rescue Animal Management System
 
-🔗 View Artifact
+[🔗 View Artifact](https://github.com/nicoleee912/CS-499/tree/main/milestone2_software_design)
+
 This enhancement demonstrates:
 
 Strong object-oriented programming skills
@@ -28,7 +29,8 @@ Improved validation, modularization, and defensive programming
 
 2️⃣ Algorithms & Data Structures Enhancement — CS-360 Mobile Inventory App
 
-🔗 View Artifact
+[🔗 View Artifact](https://github.com/nicoleee912/CS-499/tree/main/milestone3_algorithms_ds)
+
 This enhancement highlights:
 
 Algorithmic reasoning and performance-aware design
@@ -39,7 +41,8 @@ Improved UI logic that responds dynamically to computed data
 
 3️⃣ Database Enhancement — DAD-220 SQL E-Commerce Schema
 
-🔗 View Artifact
+[🔗 View Artifact](https://github.com/nicoleee912/CS-499/tree/main/milestone4_databases)
+
 This enhancement includes:
 
 SQL triggers for automated workflow updates
